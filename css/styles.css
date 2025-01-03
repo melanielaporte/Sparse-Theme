@@ -1,54 +1,15 @@
-/* RESET: Normalize inconsistencies across browsers 
+/* RESET: Normalize inconsistencies across browsers */
 * {
-  margin: 20px;
+  margin: 10px;
   padding: 0px;
-  box-sizing: border-box;
+  font-size: 14px;
 }
 
 body {
   font-family: Arial, sans-serif;
-  line-height: 1.6;
-  background-color: #f9f9f9;
-  color: #333;
+  /* RESET: Normalize inconsistencies across browsers 
+  box-sizing: border-box; 
   margin: 0;
   padding: 0;
-}
-
-/* Utility Classes 
-.hidden {
-  display: none !important;
-}
-
-.text-center {
-  text-align: center;
-}
-
-.container {
-  width: 90%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 1rem;
-}
-
-
-nav ul {
-  list-style: none;
-  padding: 0;
-}
-
-nav ul li {
-  display: inline;
-  margin: 0 0px;
-}
-
-nav ul li a {
-  color: white;
-  text-decoration: none;
-}
-
-footer {
-  text-align: center;
-  padding: 1rem 0;
-  background: #333;
-  color: white;
 } */
+
