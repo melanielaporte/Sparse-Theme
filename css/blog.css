@@ -1,20 +1,32 @@
-/* DO NOT CHANGE BODY AND MENU */
-
-body {
-  font-family: Helvetica;
-  font-size: 13px;
-  margin-top: 20px;
-  margin-right: 20px;
+/* Global entire container attributes */
+.container {
+  display: flex;
+  width: 100%;
 }
 
-#menu ul {
-  padding: 0;
-  margin: 0;
-  list-style: none;
+/* Invisible */
+.column1 {
+  flex: 0 0 20%;  
+}
+
+/* Content */
+.column2 {
+  flex: 0 0 45%; 
+}
+
+/* Menu */
+.column3 {
+  flex: 0 0 34%;  
   text-align: right;
-} 
+  margin-right: 30px;
+}
 
+/* Hides Menu bullets */
+.column3 ul {
+  list-style-type: none;
+}
 
-
-
-
+/* Bolds Menu user name */
+.title {
+  font-weight: bold;
+}
