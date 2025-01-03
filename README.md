@@ -1,2 +1,2 @@
 # project-template-novices
-Template repository for starting new HTML, CSS, and JavaScript projects.
+ Sparse is a text centered website with a minimalist aesthetic focusing on simplicity and functionality.
