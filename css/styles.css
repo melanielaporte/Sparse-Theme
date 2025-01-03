@@ -1,7 +1,7 @@
-/* RESET: Normalize inconsistencies across browsers */
+/* RESET: Normalize inconsistencies across browsers 
 * {
-  margin: 0;
-  padding: 0;
+  margin: 20px;
+  padding: 0px;
   box-sizing: border-box;
 }
 
@@ -14,7 +14,7 @@ body {
   padding: 0;
 }
 
-/* Utility Classes */
+/* Utility Classes 
 .hidden {
   display: none !important;
 }
@@ -30,13 +30,6 @@ body {
   padding: 1rem;
 }
 
-/* Layout */
-header {
-  background: #007bff;
-  color: white;
-  padding: 1rem 0;
-  text-align: center;
-}
 
 nav ul {
   list-style: none;
@@ -45,7 +38,7 @@ nav ul {
 
 nav ul li {
   display: inline;
-  margin: 0 10px;
+  margin: 0 0px;
 }
 
 nav ul li a {
@@ -58,4 +51,4 @@ footer {
   padding: 1rem 0;
   background: #333;
   color: white;
-}
+} */
