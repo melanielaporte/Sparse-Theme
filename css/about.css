@@ -4,6 +4,7 @@ body {
   font-size: 13px;
   margin-top: 20px;
   margin-right: 20px;
+  margin: 8px;
 }
 
 #menu ul {
@@ -13,10 +14,28 @@ body {
   text-align: right;
 } 
 
+#content {
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px; 
+  max-width: 800px; /* Allow for larger screen sizes */
+}
 
+div {
+  display: block;
+  unicode-bidi: isolate;
+}
 
+#left {
+  width: 200px; 
+  float: left;
+  margin-right: 20px;
+  padding-top: 20px;
+}
 
-
-
-
+#content img {
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
 
