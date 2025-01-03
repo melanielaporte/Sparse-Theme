@@ -1,6 +1,6 @@
 <h1 align="center">Sparse: A Minimalistic Website Theme</h1> 
 
-Sparse is a text centered website with a minimalist aesthetic focusing on simplicity and functionality.
+Sparse is a text centered website with a minimalist aesthetic focusing on the functionality. The theme is based on [Patrick Collison's](https://patrickcollison.com/), co owner of Stripe, personal website. I love the retro simplicity. 
 
 ## Tech Stack
 Figma, HTML, CSS
